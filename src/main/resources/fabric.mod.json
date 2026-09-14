@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "blockscanner",
+  "version": "${version}",
+  "name": "Euphoric's Fast Scanner",
+  "description": "A client-side mod that scans chunks for blocks and logs them.  Based on BlockScanner Team's blockscanner",
+  "authors": [
+    "Euphoric"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.blockscanner.BlockScannerMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.18.3",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

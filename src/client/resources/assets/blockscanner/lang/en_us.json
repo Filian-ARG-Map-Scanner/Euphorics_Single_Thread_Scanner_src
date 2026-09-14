@@ -1,0 +1,6 @@
+{
+  "key.blockscanner.toggle": "Toggle Block Scanner",
+  "key.blockscanner.screen": "Open Scanner Settings",
+  "key.blockscanner.controller": "Open Fast Scan Controller",
+  "category.blockscanner": "Block Scanner"
+}
